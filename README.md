@@ -1,16 +1,72 @@
-# React + Vite
+*** 🖼️ PIXEL GALLERY ***
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*** Modern Image Search & Gallery Web App ***
 
-Currently, two official plugins are available:
+A beautiful, responsive image gallery built with React + Unsplash API, featuring search, categories, favorites, and infinite scrolling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+*** 🚀 LIVE DEMO ***
 
-## React Compiler
+👉 https://your-live-link-here.com
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+*** ✨ FEATURES ***
 
-## Expanding the ESLint configuration
+🔍 Search images using Unsplash API
+🏷️ Category filtering (Nature, Tech, Gaming, etc.)
+♾️ Infinite scroll loading
+❤️ Favorite images (saved in localStorage)
+🖼️ Fullscreen image modal
+⚡ Smooth hover animations
+📱 Fully responsive design
+🎨 Premium dark UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*** 🛠️ TECH STACK ***
+
+⚛️ React (Vite)
+🎨 Tailwind CSS
+🌐 Unsplash API
+💾 LocalStorage
+⚡ JavaScript (ES6+)
+
+*** 📸 SCREENSHOTS ***
+
+Add screenshots here before publishing
+
+*** 📂 PROJECT SETUP ***
+
+*** 1. CLONE THE REPOSITORY ***
+
+git clone https://github.com/your-username/pixel-gallery.git
+*** 2. INSTALL DEPENDENCIES ***
+npm install
+
+*** 3. CREATE ENV FILE ***
+
+VITE_UNSPLASH_API_KEY=your_api_key_here
+
+*** 4. RUN THE PROJECT ***
+
+npm run dev
+
+*** 🔑 ENVIRONMENT VARIABLES ***
+*** UNSPLASH API KEY REQUIRED ***
+
+Get your API key from:
+👉 https://unsplash.com/developers
+
+VITE_UNSPLASH_API_KEY=your_api_key_here
+
+*** 🚀 FUTURE IMPROVEMENTS ***
+
+🔥 Pinterest masonry layout
+🌙 Dark / Light theme toggle
+📂 Favorites page route
+⚡ Skeleton loading UI
+⬇️ Download optimization
+*** 👨‍💻 AUTHOR ***
+*** RAYAN YAQOOB ***
+GitHub: https://github.com/your-username
+LinkedIn: add your link here
+
+*** ⭐ SUPPORT ***
+
+If you like this project, please give it a ⭐ on GitHub!
