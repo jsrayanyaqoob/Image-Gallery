@@ -1,14 +1,13 @@
-*** 🖼️ PIXEL GALLERY ***
+🖼️ PIXEL GALLERY 
 
-*** Modern Image Search & Gallery Web App ***
+Modern Image Search & Gallery Web App
 
 A beautiful, responsive image gallery built with React + Unsplash API, featuring search, categories, favorites, and infinite scrolling.
 
-*** 🚀 LIVE DEMO ***
+🚀 LIVE DEMO
+👉 image-gallery-one-olive.vercel.app
 
-👉 https://your-live-link-here.com
-
-*** ✨ FEATURES ***
+✨ FEATURES 
 
 🔍 Search images using Unsplash API
 🏷️ Category filtering (Nature, Tech, Gaming, etc.)
@@ -27,45 +26,34 @@ A beautiful, responsive image gallery built with React + Unsplash API, featuring
 💾 LocalStorage
 ⚡ JavaScript (ES6+)
 
-*** 📸 SCREENSHOTS ***
+📸 SCREENSHOTS
 
 Add screenshots here before publishing
 
-*** 📂 PROJECT SETUP ***
+📂 PROJECT SETUP 
 
-*** 1. CLONE THE REPOSITORY ***
-
+1. CLONE THE REPOSITORY 
 git clone https://github.com/your-username/pixel-gallery.git
-*** 2. INSTALL DEPENDENCIES ***
+
+2. INSTALL DEPENDENCIES
 npm install
 
-*** 3. CREATE ENV FILE ***
-
+3. CREATE ENV FILE
 VITE_UNSPLASH_API_KEY=your_api_key_here
 
-*** 4. RUN THE PROJECT ***
-
+4. RUN THE PROJECT
 npm run dev
 
-*** 🔑 ENVIRONMENT VARIABLES ***
-*** UNSPLASH API KEY REQUIRED ***
+🔑 ENVIRONMENT VARIABLES
+UNSPLASH API KEY REQUIRED
 
 Get your API key from:
 👉 https://unsplash.com/developers
 
-VITE_UNSPLASH_API_KEY=your_api_key_here
-
-*** 🚀 FUTURE IMPROVEMENTS ***
-
-🔥 Pinterest masonry layout
-🌙 Dark / Light theme toggle
-📂 Favorites page route
-⚡ Skeleton loading UI
-⬇️ Download optimization
-*** 👨‍💻 AUTHOR ***
-*** RAYAN YAQOOB ***
-GitHub: https://github.com/your-username
-LinkedIn: add your link here
+👨‍💻 AUTHOR
+RAYAN YAQOOB
+GitHub: https://github.com/jsrayanyaqoob
+LinkedIn: https://www.linkedin.com/in/rayan-yaqoob-36035631a/
 
 *** ⭐ SUPPORT ***
 
